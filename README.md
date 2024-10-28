@@ -1,4 +1,4 @@
-![exp5_10](https://github.com/user-attachments/assets/3809c0a1-5e99-4743-af42-41ff8ca4fbc8)![exp5_5](https://github.com/user-attachments/assets/16a80c8d-f2cd-4d66-b0ae-2067119f5ddb)# Metasploit-for-reconnaissance
+# Metasploit-for-reconnaissance
 # Metasploit
 Metasploit for reconnaissance in pentesting
 
